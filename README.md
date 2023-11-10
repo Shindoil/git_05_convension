@@ -35,3 +35,14 @@
 [![네이버](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5097%2F2019%2F07%2F25%2F368292_267336_3425_20190725113616536.jpg&type=l340_165)](https://www.naver.com)
 
 ![가방](./asset/bag.jpg)
+
+### 인라인 (inline) 코드 강조
+`백티1개`는 `인라인 코드 강조`를 의미한다
+
+```java
+  public class Exam{
+     public static void main(string[] args){
+        system.out.println("exam");
+  }
+}
+```
