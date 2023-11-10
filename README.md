@@ -21,3 +21,6 @@
 
 ### 링크(link)
 [구글](https://www.gogle.com)
+[네이버](https://www.naver.com)
+[구글홈페이지]<https://www.gogle.com>
+[네이버 홈페이지]<https://www.naver.com>
